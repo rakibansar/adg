@@ -1,0 +1,12 @@
+10:37:50.739 [main] INFO  - ================Start Test Case Mr. Rakib AnsarExcel contact verification================
+10:37:50.765 [main] INFO  - =========================================Start loginSalesforce===========================================
+10:37:55.018 [main] INFO  - Successfully Login
+10:37:55.018 [main] INFO  - Run clickcontact
+10:38:15.661 [main] INFO  - Run createDynamicxpath
+10:38:19.121 [main] INFO  - Verification for  UserName is Successful Mr. Rakib Ansar = Mr. Rakib Ansar
+10:38:19.170 [main] INFO  - Verification for Account Name is Successful Open company Preview = Open company Preview
+10:38:19.170 [main] INFO  - ====End Test Case Verification ====
+10:38:22.240 [main] INFO  - ================Start Test Case Mr. Aayush goyalExcel contact verification================
+10:38:22.240 [main] INFO  - =========================================Start loginSalesforce===========================================
+10:49:48.928 [main] INFO  - ================Start Test Case Mr. Rakib AnsarExcel contact verification================
+10:49:48.932 [main] INFO  - =========================================Start loginSalesforce===========================================
