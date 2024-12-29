@@ -22,9 +22,7 @@ jobs:
     # or 'adopt' or 'liberica' or 'eclipse' depending on your preference
     # ... other options as before ... 
 
-    - name: Build with Maven
-      run: |
-        mvn clean install -Dmaven.compiler.source=23 -Dmaven.compiler.target=23
+    
     - name: Run Tests with TestNG
       run: |
         mvn test 
