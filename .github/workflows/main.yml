@@ -23,6 +23,7 @@ jobs:
           java-version: '23'
           cache: maven
       - name: Run Tests with TestNG
-        run: mvn clean test --file testng.xml
+        run: mvn clean test -Dtest=testng.xml
+
 
         
